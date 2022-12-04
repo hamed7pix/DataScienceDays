@@ -1,2 +1,4 @@
 # DataScienceDays
 Data Science Projects
+
+A number of sample projects related to both data science and data analysis are included in this repository. Most of these projects involve a real-world dataset and using data science concepts to perform exploratory data analysis. In most projects, the fundamental objective is to elaborate on Statistics, Coding, Data Structures, Data Visualization, Mathematics, Machine Learning, and Algorithms, among others. Each of the projects is designed to uncover previously unknown or hidden information by applying an exploratory data analyst. Most of the projects in the "DataScienceDays" repository require the use of machine learning models in order to complete the analysis. The results of the applied machine learning models were then compared and analyzed on the basis of performance, and then the best-performing model was recommended.
